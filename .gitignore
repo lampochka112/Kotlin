@@ -1,0 +1,6 @@
+# KMP специфичное
+/.gradle/
+/build/
+/iosApp/Pods/
+*.iml
+.DS_Store
